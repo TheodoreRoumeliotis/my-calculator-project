@@ -10,6 +10,8 @@ public class AddCalculator {
 
         result = add(num1 ,num2);
 
+        System.out.println("Το αποτέλεσμα είναι: " + result);γιτ
+
     }
 
     public static int add(int a, int b){
